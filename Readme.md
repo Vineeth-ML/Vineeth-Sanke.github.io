@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built to showcase my projects, skills, and professional journey in AI/ML engineering. This site highlights my work across Data Engineer, Data Analyst and AI/ML.
 
-🔗 **Live Portfolio**: [Vineeth-Sanke.github.io](https://vineeth-ml.github.io/Vineeth-Sanke.github.io/)
+🔗 **Live Portfolio**: [Vineeth-Sanke.github.io](https://vineeth-ml.github.io/)
 
 ## 🚀 Features
 
